@@ -25,6 +25,7 @@ I'm a passionate Computer Science student at the MIET Jammu. I love exploring an
 - If you have any questions or want to discuss tech, don't hesitate to shoot me a message. I'm always up for a good tech chat!
 
 Thanks for visiting my profile! 😄
+
 [![GitHub Profile](https://img.shields.io/github/followers/jR4dh3y.svg?style=social)](https://github.com/jR4dh3y)
 [![Stack Overflow Profile](https://img.shields.io/badge/stackoverflow-47.6k-orange.svg)](https://stackoverflow.com/users/14966705/radhey-kalra)
 [![LinkedIn Profile](https://img.shields.io/badge/linkedin-in-radheykalra-b4246768-blue.svg)](https://www.linkedin.com/in/radheykalra/)
