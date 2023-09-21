@@ -1,4 +1,4 @@
-# Hello, I'm Radhey Kalra! 👋
+# Hello, I'm Radhey! 👋
 
 I'm a passionate Computer Science student at the MIET Jammu. I love exploring and learning new technologies, and I'm always eager to take on exciting coding challenges.
 
