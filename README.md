@@ -4,7 +4,7 @@ I'm a passionate Computer Science student at the MIET Jammu. I love exploring an
 
 [![GitHub followers](https://img.shields.io/github/followers/jR4dh3y?label=Follow&style=social)](https://github.com/jR4dh3y)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/radheykalra)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jr4dh3y?style=social)](https://twitter.com/jr4dh3y)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jR4dh3y?style=social)](https://twitter.com/jR4dh3y)
 
 ## 🔧 Skills & Tools
 - **Languages:** Python, C, HTML, CSS, JavaScript, Bash
