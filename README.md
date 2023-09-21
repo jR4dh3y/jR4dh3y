@@ -2,11 +2,6 @@
 
 I'm a passionate Computer Science student at the MIET Jammu. I love exploring and learning new technologies, and I'm always eager to take on exciting coding challenges.
 
-[![GitHub followers](https://img.shields.io/github/followers/jR4dh3y?label=Follow&style=social)](https://github.com/jR4dh3y)
-[![Website](https://img.shields.io/badge/Website-Portfolio-brightgreen)](https://jr4dh3y.github.io/page/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/radheykalra)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jR4dh3y?style=social)](https://twitter.com/jR4dh3y)
-
 ## 🔧 Skills & Tools
 - **Languages:** Python, C, HTML, CSS, JavaScript, Bash
 - **IDE:** Visual Studio Code (VSCode)
@@ -23,8 +18,11 @@ I'm a passionate Computer Science student at the MIET Jammu. I love exploring an
 
 ## 📫 Connect with Me
 - Feel free to reach out to me for collaborations, questions, or just to say hi!
-- GitHub: [github.com/jR4dh3y](https://github.com/jR4dh3y)
-- LinkedIn: [linkedin.com/in/radheykalra](https://www.linkedin.com/in/radheykalra)
+[![GitHub followers](https://img.shields.io/github/followers/jR4dh3y?label=Follow&style=social)](https://github.com/jR4dh3y)
+[![Website](https://img.shields.io/badge/Website-Portfolio-brightgreen)](https://jr4dh3y.github.io/page/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/radheykalra)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jR4dh3y?style=social)](https://twitter.com/jR4dh3y)
+
 
 ## 💬 Let's Chat
 - If you have any questions or want to discuss tech, don't hesitate to shoot me a message. I'm always up for a good tech chat!
