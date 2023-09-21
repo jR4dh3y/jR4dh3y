@@ -17,9 +17,9 @@ I'm a passionate Computer Science student at the MIET Jammu. I love exploring an
 - Improving my data structures and algorithms skills for competitive programming.
 
 ## 📫 Connect with Me
-- Feel free to reach out to me for collaborations
 - If you have any questions or want to discuss tech, don't hesitate to shoot me a message. I'm always up for a good tech chat!
-
+- Feel free to reach out to me for collaborations
+  
   [![GitHub followers](https://img.shields.io/github/followers/jR4dh3y?label=Follow&style=social)](https://github.com/jR4dh3y)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/radheykalra)
   [![Twitter Follow](https://img.shields.io/twitter/follow/jR4dh3y?style=social)](https://twitter.com/jR4dh3y)
