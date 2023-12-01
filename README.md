@@ -13,7 +13,6 @@ I'm a passionate Computer Science student at the MIET Jammu. I love exploring an
 ## 🚀 What I Do
 - I'm enthusiastic about coding and problem-solving, especially in Python.
 - I enjoy building web applications and experimenting with front-end technologies.
-- Automation and scripting are my go-to solutions for simplifying tasks.
 - Learning is a continuous journey, and I'm always open to new opportunities and experiences.
 
 ## 🌱 Currently Learning
