@@ -3,6 +3,10 @@
 I'm a passionate Computer Science student at the MIET Jammu. I love exploring and learning new technologies, and I'm always eager to take on exciting coding challenges.
 
 ## 🔧 Skills & Tools
+<a href="https://github.com/jr4dh3y">
+  <img height=180 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jR4dh3y&layout=compact&langs_count=8&card_width=300&&theme=onedark" />
+</a>
+
 - **Languages:** Python, C, HTML, CSS, JavaScript, Bash
 - **IDE:** Visual Studio Code (VSCode)
 
