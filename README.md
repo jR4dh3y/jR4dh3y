@@ -7,11 +7,8 @@ I'm a passionate Computer Science student at the MIET Jammu. I love exploring an
   <img height=180 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jR4dh3y&layout=compact&langs_count=8&card_width=300&&theme=onedark" />
 </a>
 
-- **Languages:** Python, C, HTML, CSS, TypeScript, Bash,c++,Rust
+- **Languages:** Python, C, C++, TypeScript, Bash, Rust
 - **IDE:** Visual Studio Code (VSCode)
-
-## 🚀 What I Do
-- I'm enthusiastic about coding and problem-solving
 
 ## 🌱 Currently Learning
 - Rust
