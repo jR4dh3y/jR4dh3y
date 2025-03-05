@@ -7,17 +7,14 @@ I'm a passionate Computer Science student at the MIET Jammu. I love exploring an
   <img height=180 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jR4dh3y&layout=compact&langs_count=8&card_width=300&&theme=onedark" />
 </a>
 
-- **Languages:** Python, C, HTML, CSS, JavaScript, Bash
+- **Languages:** Python, C, HTML, CSS, TypeScript, Bash,c++,Rust
 - **IDE:** Visual Studio Code (VSCode)
 
 ## 🚀 What I Do
-- I'm enthusiastic about coding and problem-solving, especially in Python.
-- I enjoy building web applications and experimenting with front-end technologies.
-- Learning is a continuous journey, and I'm always open to new opportunities and experiences.
+- I'm enthusiastic about coding and problem-solving
 
 ## 🌱 Currently Learning
-- Expanding my knowledge of web development and diving deeper into JavaScript and C.
-- Improving my data structures and algorithms skills for competitive programming.
+- Rust
 
 ## 📫 Connect with Me
 - If you have any questions or want to discuss tech, don't hesitate to shoot me a message. I'm always up for a good tech chat!
@@ -28,6 +25,3 @@ I'm a passionate Computer Science student at the MIET Jammu. I love exploring an
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/radheykalra)
   [![Twitter Follow](https://img.shields.io/twitter/follow/jR4dh3y?style=social)](https://twitter.com/jR4dh3y)
   [![Website](https://img.shields.io/badge/Website-Portfolio-brightgreen)](https://jr4dh3y.github.io/page/)
-
-
-Thanks for visiting my profile! 😄
