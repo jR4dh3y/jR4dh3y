@@ -1,16 +1,17 @@
 # I'm Radhey! 👋
 
-A Computer Science student at the MIET Jammu. I love exploring and learning new technologies.
+A Computer Science student at Jammu. I love exploring and learning new technologia (ʘ ͜ʖ ʘ) .
 
 ## 🔧 Skills & Tools
 <a href="https://github.com/jr4dh3y">
   <img height=150 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jR4dh3y&layout=compact&langs_count=8&card_width=400&&theme=onedark" />
 </a>
 
-- **Languages :** Python, C, C++, TypeScript, Bash, Rust
-- **Other Stuff :** Linux, Networking, Firebase, pinch of AWS
+- **Languages :** Python, C, C++, TypeScript, Bash, SQL
+- **Framework :** React, React Native, Svelte, Electron
+- **Other Stuff :** Linux, Networking, Firebase, AWS
 
-- **Currently Learning :** Rust async ☠️ 
+- **Trying Learning :** Rust ☠️ 
 
 
 
