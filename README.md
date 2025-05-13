@@ -23,5 +23,4 @@ A Computer Science student at Jammu. I love exploring and learning new technolog
   [![Visits](https://komarev.com/ghpvc/?username=jR4dh3y&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/jR4dh3y)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/radheykalra)
   [![Twitter Follow](https://img.shields.io/twitter/follow/jR4dh3y?style=social)](https://twitter.com/jR4dh3y)
-  [![Website](https://img.shields.io/badge/Website-blue)](https://jr4dh3y.github.io/page/)
   
