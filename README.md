@@ -1,6 +1,6 @@
 # I'm Radhey! 👋
 
-A Computer Science student at Jammu. I love exploring and learning new technologia (ʘ ͜ʖ ʘ) .
+A Computer Science Engineering student from Jammu. I love exploring and learning new technologia (ʘ ͜ʖ ʘ) .
 
 ## 🔧 Skills & Tools
 <a href="https://github.com/jr4dh3y">
