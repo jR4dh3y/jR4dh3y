@@ -11,7 +11,6 @@ A Computer Science Engineering student from Jammu. I love exploring and learning
 - **Framework :** React, React Native, Svelte, Electron
 - **Other Stuff :** Linux, Networking, Firebase, AWS
 
-- **Trying Learning :** Rust ☠️ 
 
 
 
