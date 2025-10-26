@@ -1,16 +1,14 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2a2a2c&text=Radhey%20Kalra&reversal=false&textBg=false&animation=twinkling&fontColor=c59edc" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=2a2a2c&text=Radhey%20Kalra&reversal=false&textBg=false&animation=twinkling&fontColor=c59edc" alt="header" />
 </p>
 <p align="center">
   A Computer Science Engineering student from Jammu. I love exploring and learning by building
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=c3fb5b&center=true&vCenter=true&width=700&lines=Full‑stack+%2B+Mobile;ML%2FAudio+Tinkerer;Linux+Ricer" alt="typing intro" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C3FB5B&center=true&vCenter=true&width=435&lines=Full%E2%80%91stack+%2B+Mobile;+ML%2FAudio+Tinkerer;Linux+Ricer" alt="Typing SVG" /></a>
 </p>
-
-
+  
 
 <p align="center">
   <img alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="36" />
@@ -42,20 +40,24 @@
 
 
 <!-- Contact -->
-<p align="center">
-  <a href="mailto:radheykalra901@gmail.com">
-  <img src="mail.svg" height="25"/>
+<div align="center">
+  <a href="mailto:radheykalra901@gmail.com" style="text-decoration:none; border-bottom:none;">
+    <img src="mail.svg" height="25" style="border:0; outline:none;"/>
   </a>
-  <a href="https://radhey.dev">
-   <img src="site.svg" height="25"/>
+
+  <a href="https://radhey.dev" style="text-decoration:none; border-bottom:none;">
+    <img src="site.svg" height="25" style="border:0; outline:none;"/>
   </a>
-  <a href="https://www.linkedin.com/in/radheykalra/">
-    <img src="in.svg" height="25"/>
+
+  <a href="https://www.linkedin.com/in/radheykalra/" style="text-decoration:none; border-bottom:none;">
+    <img src="in.svg" height="25" style="border:0; outline:none;"/>
   </a>
-   <a href="https://www.linkedin.com/in/radheykalra/">
-    <img src="x.svg" height="25"/>
+
+  <a href="https://www.linkedin.com/in/radheykalra/" style="text-decoration:none; border-bottom:none;">
+    <img src="x.svg" height="25" style="border:0; outline:none;"/>
   </a>
-</p>
+</div>
+
 
 <!-- Footer wave -->
 <p align="center">
