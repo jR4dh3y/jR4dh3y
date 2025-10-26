@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="292" height="40" role="img">
   <rect width="124" height="40" fill="#2a2a2c"/>
   <rect x="124" width="168" height="40" fill="#c59edc"/>
-  <g fill="#c3fb5b" text-anchor="middle" font-family="Verdana" font-size="18">
+  <g fill="#c3fb5b" text-anchor="middle" font-family="Verdana" font-size="18" font-weight="bold">
     <text x="62.0" y="26.0">linkedin</text>
   </g>
-  <g fill="#2a2a2c" text-anchor="middle" font-family="Verdana" font-size="18">
+  <g fill="#2a2a2c" text-anchor="middle" font-family="Verdana" font-size="18" font-weight="bold">
     <text x="208.0" y="26.0">Radhey Kalra</text>
   </g>
 </svg>
