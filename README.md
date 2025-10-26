@@ -43,17 +43,17 @@
 
 <!-- Contact -->
 <p align="center">
-  <a href="mailto:radheykalra901@gmail.com" aria-label="Email - Contact">
-  <img src="mail.svg" height="36" />
+  <a href="mailto:radheykalra901@gmail.com">
+  <img src="mail.svg" height="25"/>
   </a>
-  <a href="https://radhey.dev" aria-label="Website - radhey.dev">
-   <img src="site.svg" height="36" />
+  <a href="https://radhey.dev">
+   <img src="site.svg" height="25"/>
   </a>
-  <a href="https://www.linkedin.com/in/radheykalra/" aria-label="LinkedIn - Radhey Kalra">
-    <img src="in.svg" height="36" />
+  <a href="https://www.linkedin.com/in/radheykalra/">
+    <img src="in.svg" height="25"/>
   </a>
-   <a href="https://www.linkedin.com/in/radheykalra/" aria-label="x - jr4dh3y">
-    <img src="x.svg" height="36" />
+   <a href="https://www.linkedin.com/in/radheykalra/">
+    <img src="x.svg" height="25"/>
   </a>
 </p>
 
