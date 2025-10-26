@@ -41,22 +41,9 @@
 
 <!-- Contact -->
 <div align="center">
-  <a href="mailto:radheykalra901@gmail.com" style="text-decoration:none; border-bottom:none;">
-    <img src="mail.svg" height="25" style="border:0; outline:none;"/>
-  </a>
-
-  <a href="https://radhey.dev" style="text-decoration:none; border-bottom:none;">
-    <img src="site.svg" height="25" style="border:0; outline:none;"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/radheykalra/" style="text-decoration:none; border-bottom:none;">
-    <img src="in.svg" height="25" style="border:0; outline:none;"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/radheykalra/" style="text-decoration:none; border-bottom:none;">
-    <img src="x.svg" height="25" style="border:0; outline:none;"/>
-  </a>
+<a href="mailto:radheykalra901@gmail.com"><img src="mail.svg" height="25"/></a><a href="https://radhey.dev"><img src="site.svg" height="25"/></a><a href="https://www.linkedin.com/in/radheykalra/"><img src="in.svg" height="25"/></a><a href="https://www.linkedin.com/in/radheykalra/"><img src="x.svg" height="25"/></a>
 </div>
+
 
 
 <!-- Footer wave -->
