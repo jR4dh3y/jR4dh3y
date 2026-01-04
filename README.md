@@ -6,7 +6,7 @@
   A Computer Science Engineering student from Jammu. I love exploring and learning by building
 </p>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C3FB5B&center=true&vCenter=true&width=435&lines=Full%E2%80%91stack+%2B+Mobile;+ML%2FAudio+Tinkerer;Linux+Ricer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C3FB5B&center=true&vCenter=true&width=435&lines=Full%E2%80%91stack+;+ML%2FAudio+Tinkerer;Linux+Ricer" alt="Typing SVG" /></a>
 </p>
   
 
